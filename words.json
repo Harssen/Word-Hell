@@ -1027,5 +1027,2414 @@
  "n": {
   "hi": 1794779001005
  },
- "u": 1795608000000
+ "u": 1795608000000,
+ "a": {
+  "afk": [
+   "away",
+   "absent",
+   "offline"
+  ],
+  "blind": [
+   "sightless",
+   "blindness",
+   "darkness"
+  ],
+  "blur": [
+   "haze",
+   "smear",
+   "fuzzy"
+  ],
+  "bonk": [
+   "whack",
+   "smack",
+   "thump"
+  ],
+  "chaos": [
+   "anarchy",
+   "mayhem",
+   "pandemonium"
+  ],
+  "dance": [
+   "boogie",
+   "groove",
+   "disco"
+  ],
+  "dizzy": [
+   "vertigo",
+   "woozy",
+   "giddy"
+  ],
+  "emp": [
+   "pulse",
+   "blackout",
+   "electromagnetic~pulse"
+  ],
+  "fall": [
+   "plunge",
+   "tumble",
+   "topple"
+  ],
+  "fallingblocks": [
+   "tetris",
+   "blockrain",
+   "debris"
+  ],
+  "fisheye": [
+   "wideangle",
+   "lens",
+   "gopro"
+  ],
+  "fly": [
+   "soar",
+   "levitate",
+   "hover"
+  ],
+  "focus": [
+   "concentrate",
+   "sharpen",
+   "zoom"
+  ],
+  "forcefield": [
+   "barrier",
+   "bubbleshield"
+  ],
+  "gravity": [
+   "weight",
+   "newton",
+   "attraction"
+  ],
+  "hunger": [
+   "starvation",
+   "famine",
+   "appetite"
+  ],
+  "idle": [
+   "inactive",
+   "standby",
+   "motionless"
+  ],
+  "jump": [
+   "leap",
+   "hop",
+   "bounce"
+  ],
+  "monochrome": [
+   "grayscale",
+   "noir",
+   "blackandwhite"
+  ],
+  "pov": [
+   "firstperson",
+   "fpv",
+   "perspective"
+  ],
+  "push": [
+   "shove",
+   "shockwave",
+   "knockback"
+  ],
+  "quiet": [
+   "silence",
+   "mute",
+   "hush"
+  ],
+  "reset": [
+   "restart",
+   "reboot",
+   "rewind"
+  ],
+  "retro": [
+   "oldschool",
+   "throwback",
+   "8bit"
+  ],
+  "rtxon": [
+   "raytracing",
+   "ultragraphics",
+   "hdr"
+  ],
+  "saturation": [
+   "vivid",
+   "vibrant",
+   "colorboost"
+  ],
+  "scream": [
+   "shriek",
+   "yell",
+   "screech"
+  ],
+  "shrink": [
+   "tiny",
+   "miniature",
+   "shrinkray"
+  ],
+  "size": [
+   "scale",
+   "resize",
+   "growth"
+  ],
+  "sit": [
+   "seated",
+   "sitdown",
+   "perch"
+  ],
+  "sleep": [
+   "nap",
+   "slumber",
+   "snooze"
+  ],
+  "slow": [
+   "sluggish",
+   "slowmo",
+   "molasses"
+  ],
+  "sneeze": [
+   "achoo",
+   "sneezing",
+   "hayfever"
+  ],
+  "speed": [
+   "velocity",
+   "haste",
+   "swiftness"
+  ],
+  "spin": [
+   "rotate",
+   "twirl",
+   "whirl"
+  ],
+  "stand": [
+   "jojo",
+   "stando",
+   "spirit"
+  ],
+  "swap": [
+   "switch",
+   "exchange",
+   "trade"
+  ],
+  "teleport": [
+   "warp",
+   "blink",
+   "beam"
+  ],
+  "time~stop": [
+   "zawarudo",
+   "timefreeze",
+   "pausetime"
+  ],
+  "up": [
+   "rise",
+   "ascend",
+   "lift"
+  ],
+  "upsidedown": [
+   "inverted",
+   "flipped",
+   "topsyturvy"
+  ],
+  "vintage": [
+   "antique",
+   "sepia",
+   "oldtimey"
+  ],
+  "vomit": [
+   "puke",
+   "barf",
+   "throwup"
+  ],
+  "walk": [
+   "stroll",
+   "stride",
+   "march"
+  ],
+  "acid": [
+   "corrosion",
+   "vitriol",
+   "acidrain"
+  ],
+  "antimatter": [
+   "positron",
+   "annihilation",
+   "antiparticle"
+  ],
+  "apocalypse": [
+   "armageddon",
+   "doomsday",
+   "endtimes"
+  ],
+  "avalanche": [
+   "snowslide",
+   "landslide",
+   "snowslip"
+  ],
+  "black~hole": [
+   "ton618",
+   "singularity",
+   "event~horizon"
+  ],
+  "boulder": [
+   "rock",
+   "megalith",
+   "bigstone"
+  ],
+  "destruction": [
+   "demolition",
+   "devastation",
+   "ruin"
+  ],
+  "earthquake": [
+   "quake",
+   "tremor",
+   "seismic"
+  ],
+  "flash~flood": [
+   "deluge",
+   "torrent",
+   "mudslide"
+  ],
+  "epidemic": [
+   "plague",
+   "outbreak",
+   "pandemic"
+  ],
+  "fire": [
+   "blaze",
+   "inferno",
+   "flames"
+  ],
+  "flood": [
+   "inundation",
+   "highwater",
+   "overflow"
+  ],
+  "lava": [
+   "magma",
+   "molten",
+   "eruptionflow"
+  ],
+  "meteor": [
+   "asteroid",
+   "comet",
+   "fireball"
+  ],
+  "quicksand": [
+   "sinkhole",
+   "bog",
+   "mire"
+  ],
+  "rumbling": [
+   "titans",
+   "attackontitan",
+   "wallbreaker"
+  ],
+  "satellite": [
+   "sputnik",
+   "orbiter",
+   "spacejunk"
+  ],
+  "sharknado": [
+   "sharkstorm",
+   "sharktornado",
+   "jawsnado"
+  ],
+  "supernova": [
+   "hypernova",
+   "stellarblast",
+   "starburst"
+  ],
+  "titanic": [
+   "ocean~liner",
+   "iceberg",
+   "shipwreck"
+  ],
+  "tornado": [
+   "twister",
+   "cyclone",
+   "whirlwind"
+  ],
+  "tsunami": [
+   "tidalwave",
+   "megatsunami",
+   "seawave"
+  ],
+  "volcano": [
+   "eruption",
+   "stratovolcano",
+   "vulcan"
+  ],
+  "war": [
+   "battle",
+   "warfare",
+   "conflict"
+  ],
+  "zone": [
+   "safezone",
+   "redzone",
+   "shrinkingzone"
+  ],
+  "clear": [
+   "sunny",
+   "cloudless",
+   "fair"
+  ],
+  "day": [
+   "daytime",
+   "noon",
+   "sunrise"
+  ],
+  "fog": [
+   "mist",
+   "haze",
+   "smog"
+  ],
+  "hail": [
+   "hailstorm",
+   "sleet",
+   "iceballs"
+  ],
+  "heat": [
+   "heatwave",
+   "scorching",
+   "swelter"
+  ],
+  "horror": [
+   "scary",
+   "creepy",
+   "nightmare"
+  ],
+  "ice": [
+   "frost",
+   "frozen",
+   "glacier"
+  ],
+  "lightning": [
+   "thunderbolt",
+   "bolt",
+   "thunder"
+  ],
+  "night": [
+   "nighttime",
+   "midnight",
+   "darkness"
+  ],
+  "rain": [
+   "shower",
+   "drizzle",
+   "downpour"
+  ],
+  "sandstorm": [
+   "haboob",
+   "duststorm",
+   "simoom"
+  ],
+  "sky": [
+   "heavens",
+   "skyline",
+   "atmosphere"
+  ],
+  "snow": [
+   "snowfall",
+   "blizzard",
+   "flurry"
+  ],
+  "storm": [
+   "tempest",
+   "squall",
+   "thunderstorm"
+  ],
+  "sunset": [
+   "dusk",
+   "sundown",
+   "twilight"
+  ],
+  "wind": [
+   "breeze",
+   "gust",
+   "gale"
+  ],
+  "alien": [
+   "extraterrestrial",
+   "xenomorph",
+   "ufo"
+  ],
+  "angel": [
+   "seraph",
+   "cherub",
+   "archangel"
+  ],
+  "animatronic": [
+   "fnaf",
+   "freddy",
+   "robotbear"
+  ],
+  "finalboss": [
+   "bossfight",
+   "endboss",
+   "megaboss"
+  ],
+  "clown": [
+   "jester",
+   "pennywise",
+   "joker"
+  ],
+  "devil": [
+   "satan",
+   "demon",
+   "lucifer"
+  ],
+  "doom": [
+   "doomslayer",
+   "doomguy",
+   "doomedone"
+  ],
+  "dragon": [
+   "wyvern",
+   "drake",
+   "smaug"
+  ],
+  "fairy": [
+   "sprite",
+   "pixie",
+   "fae"
+  ],
+  "ghost": [
+   "spirit",
+   "phantom",
+   "specter"
+  ],
+  "giant": [
+   "colossus",
+   "goliath"
+  ],
+  "gnome": [
+   "goblin",
+   "dwarf",
+   "gardengnome"
+  ],
+  "kaiju": [
+   "godzilla",
+   "behemoth",
+   "seamonster"
+  ],
+  "haunted": [
+   "possessed",
+   "poltergeist"
+  ],
+  "herobrine": [
+   "minecraftghost",
+   "whiteeyes"
+  ],
+  "invisible": [
+   "unseen",
+   "stealth",
+   "cloaked"
+  ],
+  "leprechaun": [
+   "irishfairy",
+   "luckyelf"
+  ],
+  "mahoraga": [
+   "divinegeneral",
+   "jjkshikigami"
+  ],
+  "monster": [
+   "beast",
+   "creature",
+   "fiend"
+  ],
+  "mummy": [
+   "pharaoh",
+   "sarcophagus",
+   "wrappeddead"
+  ],
+  "nextbot": [
+   "chasebot",
+   "obunga",
+   "pursuer"
+  ],
+  "ninja": [
+   "shinobi",
+   "assassin",
+   "shadowwarrior"
+  ],
+  "noob": [
+   "newbie",
+   "rookie",
+   "beginner"
+  ],
+  "ogre": [
+   "brute",
+   "orc",
+   "shrek"
+  ],
+  "pirate": [
+   "buccaneer",
+   "corsair",
+   "swashbuckler"
+  ],
+  "reaper": [
+   "grimreaper",
+   "death",
+   "soulcollector"
+  ],
+  "robot": [
+   "android",
+   "automaton",
+   "cyborg"
+  ],
+  "scp-096": [
+   "shyguy",
+   "scp096",
+   "screamerface"
+  ],
+  "seek": [
+   "doorsmonster",
+   "eyemonster",
+   "chaser"
+  ],
+  "sirenhead": [
+   "siren",
+   "sirenman",
+   "towerhead"
+  ],
+  "skeleton": [
+   "bones",
+   "skull",
+   "skellington"
+  ],
+  "skinwalker": [
+   "shapeshifter",
+   "mimic",
+   "wendigo"
+  ],
+  "slenderman": [
+   "slender",
+   "faceless",
+   "tallman"
+  ],
+  "slime": [
+   "ooze",
+   "gel",
+   "blob"
+  ],
+  "unicorn": [
+   "unihorn",
+   "fantasyhorse",
+   "rainbowhorse"
+  ],
+  "vampire": [
+   "dracula",
+   "bloodsucker",
+   "nosferatu"
+  ],
+  "verity": [
+   "helper",
+   "companion",
+   "guide"
+  ],
+  "werewolf": [
+   "lycanthrope",
+   "wolfman",
+   "wolfbeast"
+  ],
+  "wizard": [
+   "sorcerer",
+   "mage",
+   "warlock"
+  ],
+  "zombie": [
+   "undead",
+   "walker",
+   "ghoul"
+  ],
+  "airstrike": [
+   "bombingrun",
+   "airraid",
+   "aerialbombing"
+  ],
+  "bomb": [
+   "explosive",
+   "tnt",
+   "grenade"
+  ],
+  "gun": [
+   "firearm",
+   "pistol",
+   "rifle"
+  ],
+  "ak47": [
+   "kalashnikov",
+   "akm",
+   "assaultrifle"
+  ],
+  "am180": [
+   "smg",
+   "submachinegun"
+  ],
+  "at4": [
+   "bazooka",
+   "antitank"
+  ],
+  "aug": [
+   "steyr",
+   "bullpup"
+  ],
+  "awp": [
+   "sniperrifle",
+   "awm",
+   "boltaction"
+  ],
+  "amerigun": [
+   "usagun",
+   "freedomgun"
+  ],
+  "bbgun": [
+   "airsoft",
+   "pelletgun",
+   "airgun"
+  ],
+  "barrett": [
+   "antimaterielrifle",
+   "m82",
+   "50cal"
+  ],
+  "benelli": [
+   "shotgun",
+   "combatshotgun"
+  ],
+  "blaster": [
+   "phaser",
+   "zapper",
+   "raygunblaster"
+  ],
+  "blunderbuss": [
+   "oldshotgun",
+   "flintshotgun"
+  ],
+  "doublebarrel": [
+   "sawedoff",
+   "twinshotgun"
+  ],
+  "flamethrower": [
+   "napalm",
+   "firegun",
+   "pyro"
+  ],
+  "flintlock": [
+   "pirategun",
+   "oldpistol"
+  ],
+  "gunblade": [
+   "gunsword",
+   "revolversword"
+  ],
+  "hyperlaser": [
+   "megalaser",
+   "photoncannon"
+  ],
+  "luger": [
+   "p08",
+   "parabellum"
+  ],
+  "minigun": [
+   "gatling",
+   "rotarygun",
+   "chaingun"
+  ],
+  "musket": [
+   "oldrifle",
+   "muzzleloader"
+  ],
+  "railgun": [
+   "coilgun",
+   "gaussgun",
+   "magrifle"
+  ],
+  "revolver": [
+   "sixshooter",
+   "magnumpistol",
+   "wildwestgun"
+  ],
+  "sniper": [
+   "marksman",
+   "longrifle",
+   "scoperifle"
+  ],
+  "socom": [
+   "specops",
+   "tacticalpistol"
+  ],
+  "tommy": [
+   "tommygun",
+   "thompson",
+   "mobstersmg"
+  ],
+  "trenchgun": [
+   "ww1shotgun",
+   "pumpshotgun"
+  ],
+  "uzi": [
+   "machinepistol",
+   "israelismg"
+  ],
+  "landmine": [
+   "minefield",
+   "buriedbomb",
+   "explosivetrap"
+  ],
+  "laser": [
+   "beam",
+   "photonbeam",
+   "laserbeam"
+  ],
+  "melee": [
+   "closecombat",
+   "handweapon",
+   "brawl"
+  ],
+  "baseballbat": [
+   "bat",
+   "slugger",
+   "clubbat"
+  ],
+  "baton": [
+   "nightstick",
+   "truncheon",
+   "policestick"
+  ],
+  "chainsaw": [
+   "buzzsaw",
+   "logsaw",
+   "powersaw"
+  ],
+  "crowbar": [
+   "pry",
+   "prybar",
+   "gordonweapon"
+  ],
+  "fireaxe": [
+   "hatchet",
+   "rescueaxe",
+   "woodaxe"
+  ],
+  "fryingpan": [
+   "skillet",
+   "panweapon",
+   "cookware"
+  ],
+  "greatblade": [
+   "greatsword",
+   "claymore",
+   "bigsword"
+  ],
+  "katana": [
+   "samuraisword",
+   "nihonto",
+   "japanesesword"
+  ],
+  "knife": [
+   "dagger",
+   "blade",
+   "shiv"
+  ],
+  "machete": [
+   "cutlass",
+   "jungleknife",
+   "bushknife"
+  ],
+  "tomahawk": [
+   "throwingaxe",
+   "nativeaxe"
+  ],
+  "pickaxe": [
+   "pick",
+   "miningtool",
+   "minecraftpick"
+  ],
+  "shield": [
+   "buckler",
+   "riotshield",
+   "aegis"
+  ],
+  "sword": [
+   "blade",
+   "broadsword",
+   "longsword"
+  ],
+  "nuke": [
+   "atomicbomb",
+   "nuclearbomb",
+   "warhead"
+  ],
+  "roadroller": [
+   "steamroller",
+   "compactor",
+   "asphaltroller"
+  ],
+  "saw": [
+   "sawblade",
+   "handsaw",
+   "circularsaw"
+  ],
+  "tank": [
+   "armoredvehicle",
+   "panzer",
+   "abrams"
+  ],
+  "ant": [
+   "formica",
+   "insect",
+   "emmet"
+  ],
+  "bear": [
+   "grizzly",
+   "bruin",
+   "ursus"
+  ],
+  "bees": [
+   "honeybee",
+   "swarmbee",
+   "apis"
+  ],
+  "capybara": [
+   "rodent",
+   "carpincho",
+   "chillrodent"
+  ],
+  "cat": [
+   "feline",
+   "kitten",
+   "kitty"
+  ],
+  "chicken": [
+   "hen",
+   "rooster",
+   "fowl"
+  ],
+  "cockroach": [
+   "roach",
+   "pest",
+   "bug"
+  ],
+  "cow": [
+   "cattle",
+   "bovine",
+   "bull"
+  ],
+  "crab": [
+   "crustacean",
+   "pincers",
+   "decapod"
+  ],
+  "crocodile": [
+   "croc",
+   "alligator",
+   "reptile"
+  ],
+  "dinosaur": [
+   "trex",
+   "raptor",
+   "dino"
+  ],
+  "dog": [
+   "canine",
+   "puppy",
+   "hound"
+  ],
+  "elephant": [
+   "pachyderm",
+   "mammoth",
+   "tusker"
+  ],
+  "fish": [
+   "trout",
+   "salmon",
+   "piranha"
+  ],
+  "frog": [
+   "toad",
+   "amphibian",
+   "tadpole"
+  ],
+  "goose": [
+   "gander",
+   "honker",
+   "waterfowl"
+  ],
+  "jellyfish": [
+   "medusa",
+   "stinger",
+   "jelly"
+  ],
+  "kingkong": [
+   "gorilla",
+   "megaape",
+   "skullislandape"
+  ],
+  "lion": [
+   "bigcat",
+   "panthera",
+   "leo"
+  ],
+  "locust": [
+   "grasshopper",
+   "cicada",
+   "hopper"
+  ],
+  "monkey": [
+   "primate",
+   "chimp",
+   "macaque"
+  ],
+  "moodeng": [
+   "pygmyhippo",
+   "babyhippo",
+   "hippo"
+  ],
+  "mosquito": [
+   "gnat",
+   "skeeter",
+   "bloodsucker"
+  ],
+  "octopus": [
+   "cephalopod",
+   "squid",
+   "kraken"
+  ],
+  "penguin": [
+   "emperor",
+   "pingu",
+   "waddler"
+  ],
+  "pig": [
+   "hog",
+   "swine",
+   "boar"
+  ],
+  "rabbit": [
+   "bunny",
+   "hare",
+   "coney"
+  ],
+  "rat": [
+   "rodent",
+   "ratus",
+   "vermin"
+  ],
+  "sheep": [
+   "lamb",
+   "ewe",
+   "ram"
+  ],
+  "shark": [
+   "jaws",
+   "megalodon",
+   "greatwhite"
+  ],
+  "snake": [
+   "serpent",
+   "viper",
+   "python"
+  ],
+  "spider": [
+   "arachnid",
+   "tarantula",
+   "widow"
+  ],
+  "whale": [
+   "cetacean",
+   "orca",
+   "leviathan"
+  ],
+  "wolf": [
+   "lupus",
+   "direwolf",
+   "canislupus"
+  ],
+  "worm": [
+   "annelid",
+   "earthworm",
+   "sandworm"
+  ],
+  "autumn": [
+   "harvestseason",
+   "leaffall",
+   "fallseason"
+  ],
+  "bamboo": [
+   "pandafood",
+   "cane",
+   "bamboogrove"
+  ],
+  "beach": [
+   "shore",
+   "coast",
+   "seaside"
+  ],
+  "beanstalk": [
+   "jackbean",
+   "giantvine",
+   "magicbean"
+  ],
+  "bush": [
+   "shrub",
+   "hedge",
+   "thicket"
+  ],
+  "cactus": [
+   "succulent",
+   "saguaro",
+   "prickly"
+  ],
+  "cave": [
+   "cavern",
+   "grotto",
+   "den"
+  ],
+  "desert": [
+   "wasteland",
+   "dunes",
+   "sahara"
+  ],
+  "dry": [
+   "arid",
+   "parched",
+   "drought"
+  ],
+  "fireflies": [
+   "glowbugs",
+   "lightningbugs",
+   "lampyridae"
+  ],
+  "flowers": [
+   "blossoms",
+   "bloom",
+   "petals"
+  ],
+  "geyser": [
+   "hotspring",
+   "oldfaithful",
+   "steamvent"
+  ],
+  "grass": [
+   "lawn",
+   "meadow",
+   "turf"
+  ],
+  "island": [
+   "isle",
+   "atoll",
+   "islet"
+  ],
+  "jungle": [
+   "rainforest",
+   "amazon",
+   "wilds"
+  ],
+  "moon": [
+   "luna",
+   "lunar",
+   "selene"
+  ],
+  "mountain": [
+   "peak",
+   "summit",
+   "everest"
+  ],
+  "mud": [
+   "mire",
+   "muck",
+   "slush"
+  ],
+  "oasis": [
+   "waterhole",
+   "haven",
+   "mirage"
+  ],
+  "prehistoric": [
+   "jurassic",
+   "stoneage",
+   "primeval"
+  ],
+  "pumpkin": [
+   "gourd",
+   "jackolantern",
+   "squash"
+  ],
+  "savanna": [
+   "grassland",
+   "serengeti",
+   "plains"
+  ],
+  "swamp": [
+   "marsh",
+   "wetland",
+   "bayou"
+  ],
+  "tree": [
+   "oak",
+   "timber",
+   "sapling"
+  ],
+  "tundra": [
+   "arctic",
+   "permafrost",
+   "taiga"
+  ],
+  "underwater": [
+   "undersea",
+   "submerged",
+   "deepsea"
+  ],
+  "water": [
+   "aqua",
+   "h2o",
+   "liquid"
+  ],
+  "waterfall": [
+   "cascade",
+   "cataract",
+   "niagara"
+  ],
+  "aquarium": [
+   "fishtank",
+   "seaworld",
+   "sealife"
+  ],
+  "backrooms": [
+   "liminal",
+   "noclip",
+   "yellowrooms"
+  ],
+  "barn": [
+   "farmhouse",
+   "stable",
+   "hayloft"
+  ],
+  "basketball": [
+   "hoops",
+   "court",
+   "nba"
+  ],
+  "bridge": [
+   "overpass",
+   "viaduct",
+   "crossing"
+  ],
+  "building": [
+   "skyscraper",
+   "highrise"
+  ],
+  "camping": [
+   "campsite",
+   "tents",
+   "campfire"
+  ],
+  "carousel": [
+   "merrygoround",
+   "horsering",
+   "fairride"
+  ],
+  "castle": [
+   "fortress",
+   "citadel",
+   "palace"
+  ],
+  "christmas": [
+   "xmas",
+   "yuletide",
+   "noel"
+  ],
+  "church": [
+   "chapel",
+   "cathedral",
+   "abbey"
+  ],
+  "cinema": [
+   "movietheater",
+   "theatre",
+   "filmhouse"
+  ],
+  "circus": [
+   "bigtop",
+   "carnival",
+   "showtent"
+  ],
+  "city": [
+   "metropolis",
+   "downtown",
+   "urban"
+  ],
+  "dream": [
+   "dreamland",
+   "slumberland",
+   "fantasyland"
+  ],
+  "easter": [
+   "eastereggs",
+   "eastertime",
+   "springholiday"
+  ],
+  "farm": [
+   "ranch",
+   "homestead",
+   "plantation"
+  ],
+  "ferriswheel": [
+   "observationwheel",
+   "fairwheel"
+  ],
+  "graveyard": [
+   "cemetery",
+   "boneyard",
+   "necropolis"
+  ],
+  "greenhouse": [
+   "glasshouse",
+   "conservatory",
+   "plantroom"
+  ],
+  "halloween": [
+   "spookyseason",
+   "allhallows",
+   "trickortreat"
+  ],
+  "heaven": [
+   "paradise",
+   "afterlife",
+   "celestial"
+  ],
+  "hell": [
+   "underworld",
+   "inferno",
+   "hades"
+  ],
+  "hospital": [
+   "clinic",
+   "infirmary",
+   "medcenter"
+  ],
+  "house": [
+   "home",
+   "cottage",
+   "residence"
+  ],
+  "igloo": [
+   "iceshelter",
+   "snowhouse",
+   "inuithouse"
+  ],
+  "jail": [
+   "prison",
+   "cell",
+   "penitentiary"
+  ],
+  "kitchen": [
+   "cookroom",
+   "galley",
+   "cookhouse"
+  ],
+  "lighthouse": [
+   "beacon",
+   "watchtower",
+   "seatower"
+  ],
+  "mansion": [
+   "manor",
+   "estate",
+   "villa"
+  ],
+  "maze": [
+   "labyrinth",
+   "hedgemaze",
+   "puzzlepath"
+  ],
+  "museum": [
+   "gallery",
+   "exhibit",
+   "archive"
+  ],
+  "neon": [
+   "cyberpunk",
+   "glowcity",
+   "nightclub"
+  ],
+  "ohio": [
+   "midwest",
+   "cursedstate",
+   "buckeye"
+  ],
+  "playground": [
+   "swingset",
+   "parkplay",
+   "schoolyard"
+  ],
+  "pyramid": [
+   "ziggurat",
+   "tomb",
+   "egyptpyramid"
+  ],
+  "rollercoaster": [
+   "themeparkride",
+   "thrillride",
+   "coaster"
+  ],
+  "sandcastle": [
+   "beachcastle",
+   "sandfort"
+  ],
+  "school": [
+   "classroom",
+   "academy",
+   "campus"
+  ],
+  "skatepark": [
+   "skatebowl",
+   "halfpipe",
+   "rampzone"
+  ],
+  "space": [
+   "cosmos",
+   "orbit",
+   "outerspace"
+  ],
+  "stadium": [
+   "arena",
+   "coliseum",
+   "ballpark"
+  ],
+  "stonehenge": [
+   "megaliths",
+   "druidstones",
+   "standingstones"
+  ],
+  "supermarket": [
+   "grocery",
+   "mart",
+   "shop"
+  ],
+  "temple": [
+   "shrine",
+   "sanctum",
+   "pagoda"
+  ],
+  "tower": [
+   "spire",
+   "turret",
+   "belfry"
+  ],
+  "trash": [
+   "garbage",
+   "junk",
+   "dump"
+  ],
+  "treehouse": [
+   "treefort",
+   "hideout",
+   "canopyhouse"
+  ],
+  "waterslide": [
+   "aquaslide",
+   "splashslide",
+   "flume"
+  ],
+  "western": [
+   "wildwest",
+   "frontier",
+   "cowboytown"
+  ],
+  "windmill": [
+   "wheatmill",
+   "turbine",
+   "gristmill"
+  ],
+  "zoo": [
+   "menagerie",
+   "safaripark",
+   "wildlifepark"
+  ],
+  "banana": [
+   "plantain",
+   "bananapeel",
+   "fruit"
+  ],
+  "barbecue": [
+   "bbq",
+   "grill",
+   "cookout"
+  ],
+  "apple": [
+   "fruit",
+   "malus",
+   "orchardfruit"
+  ],
+  "bacon": [
+   "rashers",
+   "pork",
+   "breakfastmeat"
+  ],
+  "beans": [
+   "legumes",
+   "pinto",
+   "baked"
+  ],
+  "bread": [
+   "loaf",
+   "baguette",
+   "toast"
+  ],
+  "burger": [
+   "hamburger",
+   "cheeseburger",
+   "patty"
+  ],
+  "cake": [
+   "gateau",
+   "sponge",
+   "dessert"
+  ],
+  "cereal": [
+   "cornflakes",
+   "breakfastbowl",
+   "oats"
+  ],
+  "cheese": [
+   "cheddar",
+   "gouda",
+   "dairy"
+  ],
+  "chocolate": [
+   "cocoa",
+   "choco",
+   "candybar"
+  ],
+  "hot~cocoa": [
+   "hotchocolate",
+   "cocoadrink"
+  ],
+  "coffee": [
+   "espresso",
+   "java",
+   "latte"
+  ],
+  "cola": [
+   "soda",
+   "coke",
+   "pop"
+  ],
+  "cookie": [
+   "biscuit",
+   "chocolatechip",
+   "cracker"
+  ],
+  "donut": [
+   "doughnut",
+   "glazed",
+   "krispy"
+  ],
+  "drumstick": [
+   "chickenleg",
+   "leg",
+   "poultry"
+  ],
+  "egg": [
+   "ovum",
+   "yolk",
+   "omelet"
+  ],
+  "gingerbread": [
+   "gingerman",
+   "spicecake",
+   "xmascookie"
+  ],
+  "grapes": [
+   "vines",
+   "raisin",
+   "wine"
+  ],
+  "ham": [
+   "gammon",
+   "pork",
+   "deli"
+  ],
+  "hotdog": [
+   "frankfurter",
+   "wiener",
+   "sausage"
+  ],
+  "icecream": [
+   "gelato",
+   "sundae",
+   "frozendessert"
+  ],
+  "marshmallow": [
+   "smore",
+   "mallow",
+   "fluff"
+  ],
+  "muffin": [
+   "cupcake",
+   "bakedbun",
+   "breakfastcake"
+  ],
+  "pancakes": [
+   "flapjacks",
+   "crepes",
+   "hotcakes"
+  ],
+  "peanutbutter": [
+   "pbj",
+   "nutspread",
+   "peanutpaste"
+  ],
+  "pie": [
+   "tart",
+   "pastry",
+   "applepie"
+  ],
+  "pizza": [
+   "pepperoni",
+   "margherita",
+   "slice"
+  ],
+  "popcorn": [
+   "movie",
+   "kernels",
+   "buttered"
+  ],
+  "potato": [
+   "spud",
+   "tater",
+   "fries"
+  ],
+  "sandwich": [
+   "sub",
+   "hoagie",
+   "panini"
+  ],
+  "soup": [
+   "broth",
+   "stew",
+   "chowder"
+  ],
+  "strawberry": [
+   "berry",
+   "fraise",
+   "redfruit"
+  ],
+  "sushi": [
+   "sashimi",
+   "maki",
+   "nigiri"
+  ],
+  "turkey": [
+   "gobbler",
+   "thanksgiving",
+   "roast"
+  ],
+  "waffle": [
+   "belgian",
+   "gaufre",
+   "wafflecone"
+  ],
+  "watermelon": [
+   "melon",
+   "summerfruit",
+   "seedspit"
+  ],
+  "tacos": [
+   "taco",
+   "tortilla",
+   "mexicanfood"
+  ],
+  "poison": [
+   "toxin",
+   "venom",
+   "cyanide"
+  ],
+  "rotten": [
+   "spoiled",
+   "moldy",
+   "decayed"
+  ],
+  "cursed": [
+   "hexed",
+   "jinxed",
+   "damned"
+  ],
+  "gross": [
+   "disgusting",
+   "nasty",
+   "yucky"
+  ],
+  "anvil": [
+   "smithtool",
+   "heavyiron",
+   "forgeblock"
+  ],
+  "ball": [
+   "sphere",
+   "orb",
+   "globe"
+  ],
+  "balloons": [
+   "blimp",
+   "floaties",
+   "partyballoons"
+  ],
+  "bathtub": [
+   "tub",
+   "bath",
+   "jacuzzi"
+  ],
+  "bed": [
+   "cot",
+   "bunk",
+   "mattress"
+  ],
+  "bike": [
+   "bicycle",
+   "cycle",
+   "pedalcycle"
+  ],
+  "boat": [
+   "ship",
+   "vessel",
+   "dinghy"
+  ],
+  "book": [
+   "tome",
+   "novel",
+   "bible"
+  ],
+  "bouncycastle": [
+   "bouncehouse",
+   "inflatable",
+   "jumpycastle"
+  ],
+  "bowling": [
+   "tenpin",
+   "bowlingball",
+   "strike"
+  ],
+  "box": [
+   "crate",
+   "carton",
+   "cube"
+  ],
+  "btools": [
+   "buildtools",
+   "adminbuild",
+   "f3x"
+  ],
+  "bubble": [
+   "foam",
+   "soapbubble",
+   "sphere"
+  ],
+  "bus": [
+   "coach",
+   "schoolbus",
+   "shuttle"
+  ],
+  "button": [
+   "switch",
+   "pushbutton",
+   "trigger"
+  ],
+  "car": [
+   "automobile",
+   "vehicle",
+   "sedan"
+  ],
+  "chair": [
+   "seat",
+   "stool",
+   "throne"
+  ],
+  "chest": [
+   "treasurechest",
+   "coffer",
+   "lootbox"
+  ],
+  "computer": [
+   "pc",
+   "laptop",
+   "desktop"
+  ],
+  "cones": [
+   "trafficcones",
+   "pylon",
+   "roadcone"
+  ],
+  "conveyor": [
+   "treadmill",
+   "beltline",
+   "assemblyline"
+  ],
+  "diamond": [
+   "gem",
+   "jewel",
+   "crystal"
+  ],
+  "dominoes": [
+   "domino",
+   "tiles",
+   "chainreaction"
+  ],
+  "door": [
+   "gate",
+   "entrance",
+   "portal"
+  ],
+  "duck": [
+   "quack",
+   "mallard",
+   "rubberduck"
+  ],
+  "exit": [
+   "escape",
+   "outlet",
+   "leave"
+  ],
+  "fireworks": [
+   "rockets",
+   "pyrotechnics",
+   "sparklers"
+  ],
+  "firetruck": [
+   "fireengine",
+   "rescuetruck"
+  ],
+  "fountain": [
+   "waterfeature",
+   "springwater",
+   "plaza"
+  ],
+  "gift": [
+   "present",
+   "package",
+   "surprise"
+  ],
+  "glue": [
+   "adhesive",
+   "epoxy",
+   "paste"
+  ],
+  "gokart": [
+   "kart",
+   "minicar",
+   "racekart"
+  ],
+  "hamsterball": [
+   "rollball",
+   "zorb",
+   "hamsterorb"
+  ],
+  "hat": [
+   "cap",
+   "fedora",
+   "helmet"
+  ],
+  "helicopter": [
+   "chopper",
+   "heli",
+   "rotorcraft"
+  ],
+  "jackinthebox": [
+   "jester box",
+   "popbox"
+  ],
+  "jenga": [
+   "blocktower",
+   "woodenblocks",
+   "tumbletower"
+  ],
+  "kite": [
+   "flyingkite",
+   "windtoy",
+   "paperkite"
+  ],
+  "ladder": [
+   "steps",
+   "climber"
+  ],
+  "lamp": [
+   "lantern",
+   "light",
+   "bulb"
+  ],
+  "launchpad": [
+   "jumppad",
+   "springpad",
+   "boostpad"
+  ],
+  "lego": [
+   "bricks",
+   "buildblocks",
+   "minifig"
+  ],
+  "luckyblock": [
+   "mysterybox",
+   "lootcrate",
+   "surpriseblock"
+  ],
+  "magnet": [
+   "attractor",
+   "lodestone",
+   "magnetfield"
+  ],
+  "medkit": [
+   "firstaid",
+   "healthpack",
+   "bandage"
+  ],
+  "money": [
+   "cash",
+   "dollars",
+   "coins"
+  ],
+  "oil": [
+   "petroleum",
+   "crude",
+   "slick"
+  ],
+  "ok": [
+   "okay",
+   "fine",
+   "alright"
+  ],
+  "paper": [
+   "sheet",
+   "page",
+   "origami"
+  ],
+  "parachute": [
+   "chute",
+   "canopy",
+   "skydivegear"
+  ],
+  "pendulum": [
+   "swinger",
+   "wreckingball",
+   "pivot"
+  ],
+  "piano": [
+   "keyboard",
+   "grandpiano",
+   "steinway"
+  ],
+  "picnic": [
+   "outing",
+   "basket",
+   "lunchout"
+  ],
+  "pinata": [
+   "candybreaker",
+   "partytoy",
+   "stickprize"
+  ],
+  "plane": [
+   "airplane",
+   "jet",
+   "aircraft"
+  ],
+  "poo": [
+   "poop",
+   "dung",
+   "turd"
+  ],
+  "raft": [
+   "floatboat",
+   "driftboat",
+   "dinghy"
+  ],
+  "sandbags": [
+   "barricade",
+   "floodwall",
+   "bagwall"
+  ],
+  "scarecrow": [
+   "strawman",
+   "fieldguard",
+   "crowscarer"
+  ],
+  "snowman": [
+   "frosty",
+   "snowperson",
+   "snowfigure"
+  ],
+  "spikes": [
+   "thorns",
+   "pikes",
+   "spikestrip"
+  ],
+  "stairs": [
+   "staircase",
+   "steps",
+   "escalator"
+  ],
+  "sussy": [
+   "suspicious",
+   "amongus",
+   "impostor"
+  ],
+  "table": [
+   "desk",
+   "counter",
+   "workbench"
+  ],
+  "tires": [
+   "wheels",
+   "rubber",
+   "tyres"
+  ],
+  "train": [
+   "locomotive",
+   "railway",
+   "choochoo"
+  ],
+  "treasure": [
+   "loot",
+   "riches",
+   "hoard"
+  ],
+  "tv": [
+   "television",
+   "screen",
+   "telly"
+  ],
+  "umbrella": [
+   "parasol",
+   "brolly",
+   "rainshield"
+  ],
+  "wall": [
+   "barrier",
+   "partition",
+   "fence"
+  ],
+  "zipline": [
+   "cablerope",
+   "flyingfox",
+   "slide"
+  ],
+  "admin": [
+   "moderator",
+   "sysop",
+   "mod"
+  ],
+  "arise": [
+   "sololeveling",
+   "shadowmonarch",
+   "summon"
+  ],
+  "aura": [
+   "vibe",
+   "charisma",
+   "glow"
+  ],
+  "baby": [
+   "infant",
+   "toddler",
+   "newborn"
+  ],
+  "ballerina": [
+   "dancer",
+   "ballet",
+   "tutu"
+  ],
+  "cappuccina": [
+   "coffeeballerina",
+   "ballerinacappuccina"
+  ],
+  "ban": [
+   "banhammer",
+   "suspend",
+   "kick"
+  ],
+  "bankai": [
+   "zanpakuto",
+   "bleach",
+   "soulblade"
+  ],
+  "bruh": [
+   "bro",
+   "nah",
+   "bruhmoment"
+  ],
+  "chillguy": [
+   "chillbro",
+   "relaxguy",
+   "coolguy"
+  ],
+  "cry": [
+   "sob",
+   "weep",
+   "tears"
+  ],
+  "dad": [
+   "father",
+   "papa",
+   "pops"
+  ],
+  "darkclone": [
+   "shadowclone",
+   "doppelganger",
+   "eviltwin"
+  ],
+  "deathnote": [
+   "ryuk",
+   "lightyagami",
+   "notebook"
+  ],
+  "delete": [
+   "erase",
+   "remove",
+   "wipe"
+  ],
+  "die": [
+   "perish",
+   "expire",
+   "croak"
+  ],
+  "doctor": [
+   "medic",
+   "physician",
+   "surgeon"
+  ],
+  "domain": [
+   "domainexpansion",
+   "realm",
+   "territory"
+  ],
+  "theend": [
+   "omega",
+   "finale",
+   "finalbeam"
+  ],
+  "energyblast": [
+   "kamehameha",
+   "beam",
+   "kiblast"
+  ],
+  "ez": [
+   "easy",
+   "eazy",
+   "gg-ez"
+  ],
+  "fart": [
+   "toot",
+   "gas",
+   "flatulence"
+  ],
+  "fortnite": [
+   "battleroyale",
+   "victoryroyale",
+   "epicgames"
+  ],
+  "gg": [
+   "goodgame",
+   "wellplayed",
+   "goldengg"
+  ],
+  "god": [
+   "deity",
+   "almighty",
+   "divine"
+  ],
+  "gojo": [
+   "satorugojo",
+   "infinity",
+   "sixeyes"
+  ],
+  "goku": [
+   "saiyan",
+   "dragonball",
+   "supersaiyan"
+  ],
+  "guest": [
+   "visitor",
+   "guest666",
+   "oldplayer"
+  ],
+  "hero": [
+   "champion",
+   "savior",
+   "paladin"
+  ],
+  "homelander": [
+   "theboys",
+   "patriot",
+   "supe"
+  ],
+  "hulk": [
+   "smash",
+   "greenrage",
+   "bruce"
+  ],
+  "ironman": [
+   "tonystark",
+   "arcreactor",
+   "stark"
+  ],
+  "jesus": [
+   "christ",
+   "messiah",
+   "savior"
+  ],
+  "kaioken": [
+   "kamehamehaboost",
+   "powerup",
+   "redaura"
+  ],
+  "kill": [
+   "slay",
+   "murder",
+   "eliminate"
+  ],
+  "king": [
+   "monarch",
+   "ruler",
+   "sovereign"
+  ],
+  "laugh": [
+   "giggle",
+   "lol",
+   "chuckle"
+  ],
+  "love": [
+   "affection",
+   "romance",
+   "hearts"
+  ],
+  "luffy": [
+   "strawhat",
+   "gomugomu",
+   "monkeydluffy"
+  ],
+  "me": [
+   "myself",
+   "yourself",
+   "selfie"
+  ],
+  "minecraft": [
+   "blocks",
+   "creeper",
+   "steve"
+  ],
+  "mom": [
+   "mother",
+   "mama",
+   "mommy"
+  ],
+  "mrbeast": [
+   "beast",
+   "jimmy",
+   "beastgames"
+  ],
+  "nani": [
+   "eh",
+   "whatthe"
+  ],
+  "naruto": [
+   "shinobi",
+   "uzumaki",
+   "rasenganboy"
+  ],
+  "neymar": [
+   "footballer",
+   "soccerstar",
+   "diver"
+  ],
+  "normal": [
+   "regular",
+   "ordinary",
+   "default"
+  ],
+  "nothing": [
+   "nada",
+   "void",
+   "zilch"
+  ],
+  "nyan": [
+   "nyancat",
+   "poptart",
+   "rainbowcat"
+  ],
+  "oof": [
+   "ouch",
+   "roblox",
+   "deathsound"
+  ],
+  "paint": [
+   "color",
+   "brush",
+   "splatter"
+  ],
+  "peace": [
+   "harmony",
+   "calm",
+   "truce"
+  ],
+  "person": [
+   "human",
+   "someone",
+   "individual"
+  ],
+  "pikachu": [
+   "pokemon",
+   "thunderbolt",
+   "yellowmouse"
+  ],
+  "pillows": [
+   "cushions",
+   "pillowfight",
+   "bedding"
+  ],
+  "please": [
+   "pleaseplease",
+   "beg",
+   "pretty"
+  ],
+  "rasengan": [
+   "spiralorb",
+   "narutoball",
+   "chakraball"
+  ],
+  "revive": [
+   "resurrect",
+   "respawn",
+   "reborn"
+  ],
+  "rizz": [
+   "charm",
+   "game",
+   "charisma"
+  ],
+  "saitama": [
+   "onepunchman",
+   "baldhero",
+   "opm"
+  ],
+  "sans": [
+   "undertale",
+   "megalovania"
+  ],
+  "santa": [
+   "clause",
+   "kringle",
+   "stnick"
+  ],
+  "sharingan": [
+   "uchiha",
+   "reddeyes",
+   "itachi"
+  ],
+  "sigma": [
+   "alpha",
+   "lonewolf",
+   "sigmamale"
+  ],
+  "siuuu": [
+   "ronaldo",
+   "cr7",
+   "celebration"
+  ],
+  "skibidi": [
+   "toilet",
+   "brainrot",
+   "skibiditoilet"
+  ],
+  "skyletter": [
+   "skywriting",
+   "airwriting",
+   "hi-sky"
+  ],
+  "snap": [
+   "thanos",
+   "infinitygauntlet",
+   "fingersnap"
+  ],
+  "sonic": [
+   "hedgehog",
+   "speedster",
+   "gottafast"
+  ],
+  "sorry": [
+   "apology",
+   "pardon",
+   "mybad"
+  ],
+  "spiderman": [
+   "webslinger",
+   "peterparker",
+   "spidey"
+  ],
+  "star": [
+   "superstar",
+   "invincibility",
+   "mario"
+  ],
+  "sukuna": [
+   "kingofcurses",
+   "ryomen",
+   "curse"
+  ],
+  "superman": [
+   "manofsteel",
+   "kalel",
+   "clarkkent"
+  ],
+  "tanjiro": [
+   "demonslayer",
+   "waterbreathing",
+   "kamado"
+  ],
+  "titan": [
+   "colossal",
+   "giantform",
+   "eren"
+  ],
+  "tralalerotralala": [
+   "tralalero",
+   "sharkshoes",
+   "brainrotshark"
+  ],
+  "trippitroppi": [
+   "troppitrippi",
+   "shrimpcat"
+  ],
+  "troll": [
+   "trollface",
+   "prank",
+   "trolling"
+  ],
+  "tungtungsahur": [
+   "sahur",
+   "drummer",
+   "brainrotwood"
+  ],
+  "what": [
+   "huh",
+   "excuse",
+   "pardon"
+  ],
+  "win": [
+   "victory",
+   "triumph",
+   "success"
+  ],
+  "wow": [
+   "amazing",
+   "whoa",
+   "impressive"
+  ],
+  "hi": [
+   "hello",
+   "hey",
+   "greetings"
+  ]
+ }
 }
